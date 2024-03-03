@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1789508"
-     inkscape:cx="101.36131"
-     inkscape:cy="274.39652"
+     inkscape:zoom="0.58781078"
+     inkscape:cx="101.22305"
+     inkscape:cy="546.94471"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="3832"
@@ -40,20 +40,20 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:9.01115px;fill:#000000;stroke-width:0.750929"
-       x="7.1615672"
-       y="9.9302063"
+       style="font-size:35.9678px;fill:#000000;stroke-width:2.99733"
+       x="5.2024045"
+       y="83.584816"
        id="text1"
-       transform="scale(1.0677754,0.93652654)"><tspan
+       transform="matrix(0.75743639,-0.00204747,-0.01666365,1.3202879,0,0)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#257d4f;fill-opacity:1;stroke-width:0.750929"
-         x="7.1615672"
-         y="9.9302063">Compliance</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#257d4f;fill-opacity:1;stroke-width:2.99733"
+         x="5.2024045"
+         y="83.584816">Compliance</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#257d4f;fill-opacity:1;stroke-width:0.750929"
-         x="7.1615672"
-         y="21.521734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Constantia;-inkscape-font-specification:Constantia;fill:#257d4f;fill-opacity:1;stroke-width:2.99733"
+         x="5.2024045"
+         y="129.8522"
          id="tspan2">Corporativo S.A.S</tspan></text>
   </g>
 </svg>
