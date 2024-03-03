@@ -1,24 +1,83 @@
 es:
-  languageName: Spanish
+  languageName: Español
   contentDir: content/es
-  weight: 2
+  weight: 1
+  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Título del Sitio"
   description: "Descripción del Sitio"
+  params:
+    ### accessibility ###
+    accessibility:
+      skip_text: "Skip to content"
+      help_text: "Accessibility Statement"
+      help_url: "/example-page/"
+    ### calls to action ###
+    main_cta:
+      text: "Join"
+      link: "/example-page/"
+    footer_cta:
+      text: "Join us"
+      link: "/example-page/"
+    github_edit: "Edit this page on GitHub"
+  ### example menu showing children ###
   menu:
     main:
+    ## Quiénes somos?
     - identifier: "about"
-      name: "Acerca de"
+      name: "Quiénes somos?"
       url: "/example-page/"
       weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
+    - identifier: "child-1-1"
+      name: "Misión"
       url: "/example-page/"
       weight: 1
       parent: "about"
+    - identifier: "child-1-2"
+      name: "Visión"
+      url: "/example-page/"
+      weight: 2
+      parent: "about"
+    - identifier: "child-1-3"
+      name: "Valores"
+      url: "/example-page/"
+      weight: 3
+      parent: "about"
+    ## Compliance Corporativo
+    - identifier: "compliance"
+      name: "Compliance Corporativo"
+      url: "/example-page/"
+      weight: 1
+    - identifier: "child-2-1"
+      name: "SAGRILAFT"
+      url: "/example-page/"
+      weight: 1
+      parent: "compliance"
+    - identifier: "child-2-2"
+      name: "PTEE"
+      url: "/example-page/"
+      weight: 2
+      parent: "compliance"
+    - identifier: "child-2-3"
+      name: "Código de Conducta"
+      url: "/example-page/"
+      weight: 3
+      parent: "compliance"
+    - identifier: "child-2-4"
+      name: "Tratamiento de Datos Personales"
+      url: "/example-page/"
+      weight: 4
+      parent: "compliance"
+    - identifier: "child-2-5"
+      name: "Código Craft"
+      url: "/example-page/"
+      weight: 5
+      parent: "compliance"
+    ## Línea ética
     - identifier: "faq"
       name: "FAQs"
       url: "/faq/"
       weight: 3
+    ## Contacténos
     - identifier: "blog"
       name: "Blog"
       url: "/blog/"
