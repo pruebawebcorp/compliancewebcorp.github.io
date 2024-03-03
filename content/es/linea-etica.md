@@ -1,3 +1,8 @@
+---
+title: QUEJAS Y RECLAMOS A LA LÍNEA ÉTICA
+description: Le dejamos nuestros datos
+---
+
 <form action="https://formspree.io/f/xleqnkvb" method="POST">
   <label for="name">Nombre:</label>
   <input type="text" id="name" name="name" required>
