@@ -5,3 +5,8 @@ googleAnalytics:
 enableRobotsTXT: true
 build:
   writeStats: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
