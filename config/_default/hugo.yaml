@@ -10,9 +10,9 @@ timeZone: "America/Los_Angeles"
 # Auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 hasCJKLanguage: true
 # Set default content directory for multilingual
-contentDir: content/en/
+contentDir: content/es/
 # Set fallback if international version is not available
-defaultContentLanguage: en
+defaultContentLanguage: es
 # Set the default language as the root rather than in folder i.e. don't use /en/
 defaultContentLanguageInSubdir: false
 
