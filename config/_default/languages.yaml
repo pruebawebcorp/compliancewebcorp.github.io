@@ -75,10 +75,10 @@ es:
     ## Línea ética
     - identifier: "faq"
       name: "Línea Ética"
-      url: "/faq/"
+      url: "/linea-etica/"
       weight: 3
     ## Contacténos
     - identifier: "blog"
       name: "Contáctenos"
-      url: "/blog/"
+      url: "/contacto/"
       weight: 4
