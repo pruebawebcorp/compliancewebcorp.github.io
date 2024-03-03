@@ -3,6 +3,8 @@ title: QUEJAS Y RECLAMOS A LA LÍNEA ÉTICA
 description: Le dejamos nuestros datos
 ---
 
+Puede escribirnos para dejarnos una queja sobre el funcionamiento de nuestra política compliance corporativa. Será respondida en la mayor brevedad. 
+
 <form action="https://formspree.io/f/xleqnkvb" method="POST">
   <label for="name">Nombre:</label>
   <input type="text" id="name" name="name" required>
