@@ -2,7 +2,7 @@ es:
   languageName: Español
   contentDir: content/es
   weight: 1
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; {{< current_year >}} Compliance Corporativo. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Corporativo S.A.S"
   description: "Sitio de prueba"
   params:
