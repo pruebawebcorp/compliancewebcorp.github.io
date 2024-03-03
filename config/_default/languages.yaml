@@ -29,7 +29,7 @@ es:
       weight: 1
     - identifier: "child-1-1"
       name: "Misión"
-      url: "/example-page/"
+      url: "/mision/"
       weight: 1
       parent: "about"
     - identifier: "child-1-2"
