@@ -7,17 +7,17 @@ El Programa de Transparencia y Ética Empresarial (PTEE) en Colombia es una inic
 
 El PTEE suele incluir una serie de políticas, procedimientos y controles internos que ayudan a las empresas a prevenir y detectar conductas indebidas, como el fraude, la corrupción, el lavado de dinero y otras formas de delitos corporativos. Algunos de los elementos clave que suelen formar parte de un PTEE incluyen:
 
-*Código de Ética y Conducta:* Un conjunto de principios y normas que guían el comportamiento ético de los empleados y directivos de la empresa en sus actividades comerciales.
+**Código de Ética y Conducta:** Un conjunto de principios y normas que guían el comportamiento ético de los empleados y directivos de la empresa en sus actividades comerciales.
 
-*Canal de Denuncias o Whistleblowing:* Un mecanismo para que los empleados y otras partes interesadas puedan informar de manera confidencial sobre posibles conductas indebidas o violaciones éticas dentro de la empresa.
+**Canal de Denuncias o Whistleblowing:** Un mecanismo para que los empleados y otras partes interesadas puedan informar de manera confidencial sobre posibles conductas indebidas o violaciones éticas dentro de la empresa.
 
-*Entrenamiento y Capacitación:* Programas de formación que ayudan a los empleados a comprender las políticas y procedimientos éticos de la empresa, así como las consecuencias de no cumplir con ellos.
+**Entrenamiento y Capacitación:** Programas de formación que ayudan a los empleados a comprender las políticas y procedimientos éticos de la empresa, así como las consecuencias de no cumplir con ellos.
 
-*Due Diligence en Terceros:* Procesos para evaluar y monitorear la integridad y cumplimiento ético de los proveedores, contratistas y otras partes asociadas.
+**Due Diligence en Terceros:** Procesos para evaluar y monitorear la integridad y cumplimiento ético de los proveedores, contratistas y otras partes asociadas.
 
-*Gestión de Conflictos de Intereses:* Políticas y procedimientos para identificar, divulgar y gestionar los conflictos de intereses que puedan surgir en las operaciones comerciales de la empresa.
+**Gestión de Conflictos de Intereses:** Políticas y procedimientos para identificar, divulgar y gestionar los conflictos de intereses que puedan surgir en las operaciones comerciales de la empresa.
 
-*Auditoría y Monitoreo:* Procesos para revisar y evaluar periódicamente la efectividad del PTEE, así como para identificar y corregir cualquier desviación o incumplimiento ético.
+**Auditoría y Monitoreo:** Procesos para revisar y evaluar periódicamente la efectividad del PTEE, así como para identificar y corregir cualquier desviación o incumplimiento ético.
 
 En Colombia, el PTEE puede ser requerido por regulaciones específicas, como la Ley 1778 de 2016, que establece disposiciones para la promoción de la transparencia y la ética en el sector público y privado. Además, las empresas pueden optar voluntariamente por implementar un PTEE como parte de su compromiso con la responsabilidad social empresarial y la sostenibilidad.
 
